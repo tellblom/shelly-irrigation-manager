@@ -8,7 +8,7 @@
 
 
 Manage and control your irrigation with **Shelly Irrigation Manager** directly from Home Assistant with a clean and user-friendly interface.
-
+It saves the schedules do the Shelly device and are not dependent on WiFi or HomeAssitant control
 ---
 
 ## ✨ Features
@@ -19,6 +19,8 @@ Manage and control your irrigation with **Shelly Irrigation Manager** directly f
 - 🗑️ Delete schedules
 - 🔄 Sync devices manually
 
+## Lovelace Card
+<img width="523" height="582" alt="image" src="https://github.com/user-attachments/assets/0d4e6903-3893-439c-b52c-e34ba86749ef" />
 
 ---
 
@@ -35,9 +37,18 @@ Full schedule support:
 
 ---
 
+## Dependencies
+
+- Depends on Shelly integration (to be able to get the IP of the Shelly Device) 
+
+## Limitations
 ### ⚠️ Gen1 Devices are not suppoorted
+### ⚠️ All schedules on the Shelly WILL BE OVERWRITTEN
 
 
-## Lovelace Card
-<img width="523" height="582" alt="image" src="https://github.com/user-attachments/assets/0d4e6903-3893-439c-b52c-e34ba86749ef" />
+
+
+
+
+
 
