@@ -1,4 +1,4 @@
-# Shelly Schedule Manager
+# Shelly Irrigation Manager
 
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Integration-41BDF5?logo=home-assistant)](https://www.home-assistant.io/)
 [![release](https://img.shields.io/github/v/release/tellblom/shelly-irrigation-manager?display_name=tag)](https://github.com/tellblom/shelly-schedule-manager/releases/latest)
@@ -25,6 +25,7 @@ Manage and control your irrigation with **Shelly Irrigation Manager** directly f
 ## ⚙️ Supported Devices
 
 ### ✅ Gen2 / Gen3 / Gen4 (RPC-based)
+⚠️You should only use Shellys with Dry Contacts 
 
 Full schedule support:
 
@@ -35,3 +36,8 @@ Full schedule support:
 ---
 
 ### ⚠️ Gen1 Devices are not suppoorted
+
+
+## Lovelace Card
+<img width="523" height="582" alt="image" src="https://github.com/user-attachments/assets/0d4e6903-3893-439c-b52c-e34ba86749ef" />
+
