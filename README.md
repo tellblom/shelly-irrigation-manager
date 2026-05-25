@@ -20,7 +20,7 @@ It saves the schedules do the Shelly device and are not dependent on WiFi or Hom
 - 🔄 Sync devices manually
 
 ## Lovelace Card
-<img width="523" height="582" alt="image" src="https://github.com/user-attachments/assets/0d4e6903-3893-439c-b52c-e34ba86749ef" />
+<img width="262" height="266" alt="image" src="https://github.com/user-attachments/assets/0d4e6903-3893-439c-b52c-e34ba86749ef" />
 
 ---
 
@@ -85,7 +85,8 @@ cards:
 
 
 In the top of my dashboard I have this:
-<img width="500" height="413" alt="image" src="https://github.com/user-attachments/assets/5b9a8a3a-3104-40db-9d85-a794e141503c" />
+
+<img width="250" height="207" alt="image" src="https://github.com/user-attachments/assets/5b9a8a3a-3104-40db-9d85-a794e141503c" />
 
 Thats just a regular entity card 
 
