@@ -86,7 +86,7 @@ cards:
 
 In the top of my dashboard I have this:
 
-<img width="375" height="311" alt="image" src="https://github.com/user-attachments/assets/5b9a8a3a-3104-40db-9d85-a794e141503c" />
+<img width="320" height="270" alt="image" src="https://github.com/user-attachments/assets/eaeb646c-7cf9-4749-abc3-dc694b8f5b72" />
 
 Thats just a regular entity card 
 
