@@ -52,7 +52,7 @@ Full schedule support:
 1. Copy both bot custom_componets and ww folders to your /config folder in home assistant
 2. Edit a Dashboard and go to the three dots i the upper right corner. Choose Manage Resources  and click  +Add Reaurce
 3. Enter: /local/shelly-irrigation-manager/shelly-irrigation-card.js in the URL. and choose JavaScript module
-<img width="266" height="212" alt="image" src="https://github.com/user-attachments/assets/8ef52ff6-7420-4d99-923f-a39af4d6a089" />
+<img width="399" height="318" alt="image" src="https://github.com/user-attachments/assets/8ef52ff6-7420-4d99-923f-a39af4d6a089" />
 
 4. Restart Home Assitant
 5. Go to Settings -> Devices & Services and press +Add integration button
@@ -86,7 +86,7 @@ cards:
 
 In the top of my dashboard I have this:
 
-<img width="250" height="207" alt="image" src="https://github.com/user-attachments/assets/5b9a8a3a-3104-40db-9d85-a794e141503c" />
+<img width="375" height="311" alt="image" src="https://github.com/user-attachments/assets/5b9a8a3a-3104-40db-9d85-a794e141503c" />
 
 Thats just a regular entity card 
 
