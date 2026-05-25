@@ -1,0 +1,11 @@
+{
+    "domain": "shelly_irrigation_manager",
+    "name": "Shelly Irrigation Manager",
+    "version": "0.0.1",
+    "documentation": "",
+    "dependencies": ["shelly"],
+    "codeowners": ["@tellblom"],
+    "requirements": [],
+    "iot_class": "local_polling",
+    "config_flow": true
+  }
