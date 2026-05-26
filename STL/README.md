@@ -1,6 +1,6 @@
 ## DIN holder for the Shelly 1 Mini Gen3/Gen4
 
-There are several DIN holders for teh Shelly Mini Gen3/4
+There are several DIN holders for the Shelly Mini Gen3/4
 
 Here is some of them:
 
