@@ -8,7 +8,7 @@
 
 
 Manage and control your irrigation with **Shelly Irrigation Manager** directly from Home Assistant with a clean and user-friendly interface.
-It saves the schedules do the Shelly device and are not dependent on WiFi or HomeAssitant control
+It saves the schedules to the Shelly device and are not dependent on WiFi or HomeAssitant control
 ---
 
 ## ✨ Features
